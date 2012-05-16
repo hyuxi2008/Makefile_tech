@@ -1,0 +1,7 @@
+SDK_VERSION=hisi_3110e
+CROSS_COMPILE = arm-elf-
+
+AR = $(CROSS_COMPILE)ar
+CC = $(CROSS_COMPILE)cc
+
+
